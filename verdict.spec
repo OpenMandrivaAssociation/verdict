@@ -10,6 +10,7 @@ Summary: Library for computing quality functions of 2 and 3-dimensional regions
 URL: https://github.com/sandialabs/verdict
 License: MIT
 Group: System/Libraries
+BuildRequires: pkgconfig(gtest)
 BuildRequires: cmake
 BuildRequires: ninja
 
