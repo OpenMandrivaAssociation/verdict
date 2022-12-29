@@ -3,7 +3,7 @@
 %define devname %mklibname verdict -d
 
 Name: verdict
-Version: 1.4.0
+Version: 1.4.1
 Release: 1
 Source0: https://github.com/sandialabs/verdict/archive/%{version}/%{name}-%{version}.tar.gz
 Summary: Library for computing quality functions of 2 and 3-dimensional regions
