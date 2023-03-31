@@ -4,7 +4,7 @@
 
 Name: verdict
 Version: 1.4.1
-Release: 1
+Release: 2
 Source0: https://github.com/sandialabs/verdict/archive/%{version}/%{name}-%{version}.tar.gz
 Summary: Library for computing quality functions of 2 and 3-dimensional regions
 URL: https://github.com/sandialabs/verdict
